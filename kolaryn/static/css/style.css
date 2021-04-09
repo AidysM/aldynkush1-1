@@ -137,7 +137,7 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
+	/* color: ; */
 }
 
 address {
@@ -530,7 +530,7 @@ button:focus {
 
 
 #mu-video-review {
-	background-image: url(assets/images/video-review-bg.jpeg);
+	background-image: url(../images/video-review-bg.jpeg);
 	background-attachment: fixed;
 	background-size: cover;
 	display: inline;
@@ -687,7 +687,7 @@ button:focus {
 .mu-pricing-single-head {
 	border-bottom: 1px solid #eee;
 	display: inline-block;
-	float: left;
+	/* float: left; */
 	margin-bottom: 10px;
 	width: 100%;
 }
@@ -723,7 +723,7 @@ button:focus {
 
 .mu-pricing-single-footer {
 	display: inline-block;
-	float: left;
+	/* float: left; */
 	width: 100%;
 }
 
@@ -758,7 +758,7 @@ button:focus {
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonials-bg.jpeg");
+	background-image: url("../images/testimonials-bg.jpeg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
